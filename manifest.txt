@@ -1,0 +1,3 @@
+Main-Class: onelife.maingame.GameManager
+Class-Path: bin/
+
